@@ -1,0 +1,13 @@
+.gameContainer {
+    position: relative;
+    width: 540px;
+    height: 415px;
+    border: 2px solid black;
+    margin: 0 auto;
+
+    transform: scale(1.5) translateY(50%);
+}
+
+body {
+    margin: auto;
+}
